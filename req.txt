@@ -1,0 +1,22 @@
+numpy
+torch
+tqdm
+scipy
+matplotlib
+scikit-learn
+opencv-python
+PyYAML
+tensorboardX
+python-lzf
+
+# Optional / Development
+mayavi  # Only required for 3D visualization tests (e.g., test_jrdb_handle_mayavi.py)
+
+# ROS specific dependencies (Usually installed via ROS/apt and sourced)
+# rospy
+# sensor_msgs
+# geometry_msgs
+# visualization_msgs
+# tf2_msgs
+# rosbag
+# catkin_pkg
