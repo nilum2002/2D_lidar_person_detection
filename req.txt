@@ -8,9 +8,9 @@ opencv-python
 PyYAML
 tensorboardX
 python-lzf
-
+typeguard
 # Optional / Development
-mayavi  # Only required for 3D visualization tests (e.g., test_jrdb_handle_mayavi.py)
+# mayavi  # Only required for 3D visualization tests (e.g., test_jrdb_handle_mayavi.py)
 
 # ROS specific dependencies (Usually installed via ROS/apt and sourced)
 # rospy
