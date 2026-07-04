@@ -31,3 +31,4 @@ output/
 results/
 result_*/
 wandb
+venv/
