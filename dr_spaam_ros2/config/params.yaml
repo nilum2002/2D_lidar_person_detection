@@ -1,0 +1,9 @@
+dr_spaam_ros2_node:
+  ros__parameters:
+    weight_file: "/media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/self_supervised_person_detection-20260705T040103Z-3-001/self_supervised_person_detection/ckpt_jrdb_ann_ft_dr_spaam_e20.pth"
+    detector_model: "DR-SPAAM"
+    conf_thresh: 0.8
+    stride: 1
+    panoramic_scan: true
+    scan_topic: "/scan"
+    gpu: true

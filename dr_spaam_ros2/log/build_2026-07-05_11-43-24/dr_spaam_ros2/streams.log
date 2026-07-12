@@ -1,0 +1,41 @@
+[0.696s] Invoking command in '/media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/dr_spaam_ros2 build --build-base /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build install --record /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/install.log --install-scripts $base/lib/dr_spaam_ros2 --single-version-externally-managed install_data
+[0.892s] running egg_info
+[0.892s] creating build/dr_spaam_ros2/dr_spaam_ros2.egg-info
+[0.905s] writing build/dr_spaam_ros2/dr_spaam_ros2.egg-info/PKG-INFO
+[0.906s] writing dependency_links to build/dr_spaam_ros2/dr_spaam_ros2.egg-info/dependency_links.txt
+[0.906s] writing entry points to build/dr_spaam_ros2/dr_spaam_ros2.egg-info/entry_points.txt
+[0.906s] writing requirements to build/dr_spaam_ros2/dr_spaam_ros2.egg-info/requires.txt
+[0.906s] writing top-level names to build/dr_spaam_ros2/dr_spaam_ros2.egg-info/top_level.txt
+[0.906s] writing manifest file 'build/dr_spaam_ros2/dr_spaam_ros2.egg-info/SOURCES.txt'
+[0.937s] reading manifest file 'build/dr_spaam_ros2/dr_spaam_ros2.egg-info/SOURCES.txt'
+[0.937s] writing manifest file 'build/dr_spaam_ros2/dr_spaam_ros2.egg-info/SOURCES.txt'
+[0.937s] running build
+[0.937s] running build_py
+[0.937s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build
+[0.937s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build/lib
+[0.937s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build/lib/dr_spaam_ros2
+[0.937s] copying dr_spaam_ros2/__init__.py -> /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build/lib/dr_spaam_ros2
+[0.937s] copying dr_spaam_ros2/dr_spaam_ros2_node.py -> /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build/lib/dr_spaam_ros2
+[0.938s] running install
+[0.942s] running install_lib
+[0.956s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/python3.12/site-packages/dr_spaam_ros2
+[0.956s] copying /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build/lib/dr_spaam_ros2/__init__.py -> /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/python3.12/site-packages/dr_spaam_ros2
+[0.956s] copying /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build/lib/dr_spaam_ros2/dr_spaam_ros2_node.py -> /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/python3.12/site-packages/dr_spaam_ros2
+[0.956s] byte-compiling /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/python3.12/site-packages/dr_spaam_ros2/__init__.py to __init__.cpython-312.pyc
+[0.956s] byte-compiling /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/python3.12/site-packages/dr_spaam_ros2/dr_spaam_ros2_node.py to dr_spaam_ros2_node.cpython-312.pyc
+[0.957s] running install_data
+[0.957s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/ament_index
+[0.957s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/ament_index/resource_index
+[0.957s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/ament_index/resource_index/packages
+[0.957s] copying resource/dr_spaam_ros2 -> /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/ament_index/resource_index/packages
+[0.958s] copying package.xml -> /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/dr_spaam_ros2
+[0.958s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/dr_spaam_ros2/launch
+[0.958s] copying launch/dr_spaam_ros2.launch.py -> /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/dr_spaam_ros2/launch
+[0.958s] creating /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/dr_spaam_ros2/config
+[0.958s] copying config/params.yaml -> /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/share/dr_spaam_ros2/config
+[0.958s] running install_egg_info
+[0.972s] Copying build/dr_spaam_ros2/dr_spaam_ros2.egg-info to /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/python3.12/site-packages/dr_spaam_ros2-1.2.0-py3.12.egg-info
+[0.972s] running install_scripts
+[1.059s] Installing dr_spaam_ros2_node script to /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/dr_spaam_ros2
+[1.059s] writing list of installed files to '/media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/install.log'
+[1.078s] Invoked command in '/media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/install/dr_spaam_ros2/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/dr_spaam_ros2 build --build-base /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/build install --record /media/nilum/my-stuff/Research/Human_Robot_Interaction/2D_lidar_person_detection/dr_spaam_ros2/build/dr_spaam_ros2/install.log --install-scripts $base/lib/dr_spaam_ros2 --single-version-externally-managed install_data
